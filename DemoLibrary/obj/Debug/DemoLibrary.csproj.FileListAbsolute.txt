@@ -1,0 +1,5 @@
+/Users/DoWork/Desktop/UnitTesting/DemoLibrary/bin/Debug/DemoLibrary.dll
+/Users/DoWork/Desktop/UnitTesting/DemoLibrary/bin/Debug/DemoLibrary.pdb
+/Users/DoWork/Desktop/UnitTesting/DemoLibrary/obj/Debug/DemoLibrary.csproj.CoreCompileInputs.cache
+/Users/DoWork/Desktop/UnitTesting/DemoLibrary/obj/Debug/DemoLibrary.dll
+/Users/DoWork/Desktop/UnitTesting/DemoLibrary/obj/Debug/DemoLibrary.pdb

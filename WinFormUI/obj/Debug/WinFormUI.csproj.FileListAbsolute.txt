@@ -1,0 +1,14 @@
+/Users/DoWork/Desktop/UnitTesting/WinFormUI/bin/Debug/PersonText.txt
+/Users/DoWork/Desktop/UnitTesting/WinFormUI/bin/Debug/WinFormUI.exe.config
+/Users/DoWork/Desktop/UnitTesting/WinFormUI/bin/Debug/WinFormUI.exe
+/Users/DoWork/Desktop/UnitTesting/WinFormUI/bin/Debug/WinFormUI.pdb
+/Users/DoWork/Desktop/UnitTesting/WinFormUI/bin/Debug/DemoLibrary.dll
+/Users/DoWork/Desktop/UnitTesting/WinFormUI/bin/Debug/DemoLibrary.pdb
+/Users/DoWork/Desktop/UnitTesting/WinFormUI/obj/Debug/WinFormUI.csprojAssemblyReference.cache
+/Users/DoWork/Desktop/UnitTesting/WinFormUI/obj/Debug/WinFormUI.Dashboard.resources
+/Users/DoWork/Desktop/UnitTesting/WinFormUI/obj/Debug/WinFormUI.Properties.Resources.resources
+/Users/DoWork/Desktop/UnitTesting/WinFormUI/obj/Debug/WinFormUI.csproj.GenerateResource.cache
+/Users/DoWork/Desktop/UnitTesting/WinFormUI/obj/Debug/WinFormUI.csproj.CoreCompileInputs.cache
+/Users/DoWork/Desktop/UnitTesting/WinFormUI/obj/Debug/WinFormUI.csproj.CopyComplete
+/Users/DoWork/Desktop/UnitTesting/WinFormUI/obj/Debug/WinFormUI.exe
+/Users/DoWork/Desktop/UnitTesting/WinFormUI/obj/Debug/WinFormUI.pdb

@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{B81D1D58-B533-446A-B2F9-8EB69DB2C248}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoLibrary/DataAccess.cs">
+    <Files>
+      <File FileName="DemoLibrary/DataAccess.cs" Line="40" Column="32" />
+      <File FileName="DemoLibrary.Tests/DataAccessTests.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestingDemo" expanded="True">
+            <Node name="DemoLibrary" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="DataAccess.cs" selected="True" />
+            </Node>
+            <Node name="DemoLibrary.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TestingDemo" expanded="True">
+            <Node name="DemoLibrary.Tests" expanded="True">
+              <Node name="DemoLibrary.Tests" expanded="True">
+                <Node name="DataAccessTests" expanded="True">
+                  <Node name="AddPersonToPeopleList_ShouldFail(firstName: &quot;Tim&quot;, lastName: &quot;&quot;, param: &quot;LastName&quot;)" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WinFormUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
